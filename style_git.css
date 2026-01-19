@@ -1,0 +1,51 @@
+h1 {
+	color: orange;
+	text-align: center;
+	font-size: 170%;
+}
+h2 { 
+	color: green;
+	background-color: grey;
+}
+
+h3 {
+	colour: purple;
+	font-size: 135%;
+}
+h4 {
+	bold;
+	font-size: 160%;
+}
+p {
+	font-size: 110%;
+
+}
+
+#intro {
+	background-color: grey;
+}
+
+#body {
+	background-color: grey;
+}
+
+.first {
+	font-size: 200%;
+}
+
+#intro .first {
+	color: blue;
+}
+
+#intro .first em {
+	color: red;
+}
+
+#form_eg {
+	background-color: grey;
+}
+
+#image_text {
+	color: green;
+	background-colour: grey;
+}
