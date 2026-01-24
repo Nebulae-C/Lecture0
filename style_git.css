@@ -5,7 +5,7 @@ h1 {
 }
 h2 { 
 	color: green;
-	background-color: grey;
+
 }
 
 h3 {
@@ -22,11 +22,11 @@ p {
 }
 
 #intro {
-	background-color: grey;
+
 }
 
 #body {
-	background-color: grey;
+
 }
 
 .first {
@@ -42,20 +42,45 @@ p {
 }
 
 #form_eg {
-	background-color: grey;
+
 }
 
 #image_text {
 	text-align: center;
 	color: green;
-	background-color: grey;
 	padding: 15px;
 }
 
 head {
 	border-style: solid solid none solid;
+	border-color: blue;
 }
 
 body {
 	border-style: none solid solid solid;
+	border-color: blue;
+}
+
+table {
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	width: 50%
+}
+
+td, th {
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	padding: 5px;
+}
+
+th {
+	background-color: grey;
+	text-align: center;
+}
+
+td {
+	text-align: center;
+	background-color: gray;
 }
