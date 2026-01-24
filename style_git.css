@@ -51,3 +51,11 @@ p {
 	background-color: grey;
 	padding: 15px;
 }
+
+head {
+	border-style: solid solid none solid;
+}
+
+body {
+	border-style: none solid solid solid;
+}
