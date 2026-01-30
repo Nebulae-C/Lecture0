@@ -54,6 +54,7 @@ p {
 head {
 	border-style: solid solid solid solid;
 	border-color: blue;
+	margin-top: 5px;
 }
 
 body {
