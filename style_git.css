@@ -52,12 +52,12 @@ p {
 }
 
 head {
-	border-style: solid solid none solid;
+	border-style: solid solid solid solid;
 	border-color: blue;
 }
 
 body {
-	border-style: none solid solid solid;
+	border-style: solid solid solid solid;
 	border-color: blue;
 }
 
